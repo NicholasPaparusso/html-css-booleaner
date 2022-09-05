@@ -1,0 +1,48 @@
+/*General*/
+*{
+  font-family: 'Roboto', sans-serif;
+  margin: 0px;
+}
+
+/*Logo+Container*/
+#logo{
+  width: 200px;
+  height: 100px;
+  background-image: url(../img/logo.svg);
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 40%;
+  
+}
+
+.container{
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  height: 180px;
+  background-image: url(../img/pattern.png);
+  background-color:rgb(78, 160, 255) ;
+}
+/*Logo+Container*/
+
+/*Titolo+autore*/
+h1{
+  margin: 5px;
+  font-size: 50px;
+  text-align: justify;
+}
+
+.info{
+  color: rgb(195, 195, 195) ;
+  margin: 5px;
+  font-size: 18px;
+}
+
+.evidenziata{
+  color: rgb(43, 173, 230);
+}
+
+.data{
+  font-size: 0.75rem;
+}
+/*Titolo+autore*/
