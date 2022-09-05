@@ -62,14 +62,38 @@ margin:5px;
 }
 /*foto*/
 
-/*paragrafi*/
+/*paragrafo*/
 .paragrafo{
   margin-left: 5px;
   margin-top: 30px;
 }
-/*paragrafo*/
+
 .evidenziato{
   background-color: yellow;
 }
+/*paragrafo*/
 
+/*table*/
+table{
+  border-collapse: collapse;
+  margin-left: 5px;
+  margin-top: 30px;
+}
+
+thead{
+  background-color:rgb(32, 169, 229) ;
+  color: white;
+  text-align: left;
+}
+th{
+ width: 33%;
+}
+td{
+ width: 33%;
+}
+ 
+.linea-colorata{
+  background-color: rgb(177, 229, 242);
+}
+/*table*/
 
