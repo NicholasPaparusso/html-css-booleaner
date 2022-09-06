@@ -84,11 +84,9 @@ thead{
   color: white;
   text-align: left;
 }
-th{
- width: 33%;
-}
-td{
- width: 33%;
+
+.table-text{
+  width: 50%;
 }
  
 .linea-colorata{
