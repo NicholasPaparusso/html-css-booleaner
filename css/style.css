@@ -8,7 +8,6 @@
 #logo{
   width: 200px;
   height: 100px;
-  background-image: url(../img/logo.svg);
   background-repeat: no-repeat;
   position: absolute;
   top: 40%;
